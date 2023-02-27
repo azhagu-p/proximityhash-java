@@ -3,18 +3,18 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
     <packaging>jar</packaging>
     <groupId>com.proximityhash</groupId>
     <artifactId>proximityhash-java</artifactId>
     <name>proximityhash-java</name>
-    <description>
-        Create the GeoHash.
-    </description>
+    <description>Create the GeoHash using Java.</description>
     <version>1.0</version>
-    <url>
-        github.com
-    </url>
+    <url>https://github.com/azhagu-p/proximityhash-java</url>
+    <licenses>
+        <license>
+            <name></name>
+        </license>
+    </licenses>
     <dependencies>
         <dependency>
             <groupId>ch.hsr</groupId>
